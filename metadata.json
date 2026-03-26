@@ -1,0 +1,5 @@
+{
+  "name": "Easy Data AI",
+  "description": "An AI-powered data assistant for cleaning, SQL generation, and interactive analysis of CSV datasets.",
+  "requestFramePermissions": []
+}
