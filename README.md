@@ -8,6 +8,7 @@ Test and use the app on google AI studio - (https://ai.studio/apps/4d7b5f1e-1644
 - Natural Language SQL Generation: Converts plain English into structured SQL queries.
 
 - Automated Data Analysis: Produces technical insights, recommendations, and dynamic visualizations.
+![alt image](https://github.com/yanheinaung23-eng/Easy-Data-AI-Application-Project/blob/d42e99427d047abe3b2d4d2b5cc109c38a203212/Photos/phone%20ads.png)
 
 ### Technical Stack 🛠️
 
